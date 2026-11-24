@@ -49,7 +49,8 @@ Two directions exist so far:
 - [ ] Electronics: SenseCAP K1100 / XIAO + Meshtastic / Smart Citizen Kit?
 - [ ] What does the duck *do* with the data (LED colour, posture, sound, textile change)?
 - [ ] Fabricademy angle: soft / textile / biomaterial shell elements?
-- [ ] OSH documentation: license (CC BY to match Hackster?), BOM, repo structure.
+- [x] License: CC BY 4.0 (matches Hackster).
+- [ ] OSH documentation: BOM, assembly guide.
 
 ## Folder layout
 ```
@@ -60,3 +61,8 @@ CitizenQuack/
   firmware/        code
   docs/            process photos, documentation
 ```
+
+## License
+
+This project is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — see [LICENSE](LICENSE).
+You may share and adapt it for any purpose, as long as you give appropriate credit.
