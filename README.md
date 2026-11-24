@@ -1,4 +1,4 @@
-# CitizenQuack — Fabricademy Week 11 (Open Source Hardware)
+# CitizenQuack — open source sensor ducks
 
 > "Design ducks not boxes. Make sensors make sense."
 
@@ -48,7 +48,7 @@ Two directions exist so far:
 - [ ] Water or air (or both)?
 - [ ] Electronics: SenseCAP K1100 / XIAO + Meshtastic / Smart Citizen Kit?
 - [ ] What does the duck *do* with the data (LED colour, posture, sound, textile change)?
-- [ ] Fabricademy angle: soft / textile / biomaterial shell elements?
+- [ ] Shell materials: soft / textile / biomaterial elements?
 - [x] License: CC BY 4.0 (matches Hackster).
 - [ ] OSH documentation: BOM, assembly guide.
 
