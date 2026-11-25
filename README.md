@@ -13,7 +13,7 @@ same sensor internals, a different shell and personality, co-designed with the c
 
 Two directions exist so far:
 
-| | Hackster version (Jul 2025) | CitizenQuack SG (Sep 2026) |
+| | Fab25 version (Jul 2025) | CitizenQuack SG (Sep 2026) |
 |---|---|---|
 | Focus | **Water** quality, floating river nodes | **Air** quality (PM2.5), humidity, noise |
 | Electronics | Seeed SenseCAP K1100 (LoRa + AI kit) | Smart Citizen Kit #18929 (Geylang East) |
@@ -22,34 +22,43 @@ Two directions exist so far:
 | Enclosure | 3D-printed duck, TPU ideal; weighted keel; probes on underside; pulsing LED eye | 3D-printed duck shell, forkable species; origami hat; pond float tests on fishing line |
 | License | CC BY | — (not stated) |
 
-### Hackster design notes
+### Fab25 design notes
 - Matte white (contemporary) or bright yellow (visibility); recycled/recyclable, modular for repair.
 - Weighted keel for floating stability; probes integrated on the underside, protected from debris.
 - Gently pulsing LED in the eye = transmitting.
 - Build listed: SenseCAP K1100, Meshtastic, hot glue gun. Status: work in progress (~8 h).
 
 ## Team / lineage
-- Hackster team: Saad Chinoy, Óscar, Adai, Miriam Choi.
+
+### Core contributors
+- [YeEun "Miriam" Choi](https://fabacademy.org/2019/labs/seoul/students/miriam-choi/mev2.html) — main designer
+- [Saad Chinoy](https://www.hackster.io/saad-chinoy)
+- [Óscar](https://www.linkedin.com/in/oscgonfer/)
+- [Adai Suri](https://fablabbcn.org/team/adai-suri)
+- [Claire Chaikin-Bryan](https://www.linkedin.com/in/claire-chaikin-bryan/)
+
+### Lineage
+- Fab25 team: Saad Chinoy, Óscar, Adai, Miriam Choi.
 - SG page team: Saad Chinoy, YeEun "Miriam" Choi, Alberto Blanco, Jinger Zeng,
   Claire Chaikin-Bryan, Selena Pere, Robert Bogs; support from Violet Su (Seeed Studio).
 - Origin: met at FAB24 Mexico; came together at FAB25 Czechia during Fab Lab Barcelona's
   "Smart Citizen Meets Meshtastic" hackathon (SCK 3.0 + LoRa/Meshtastic).
 
 ## Resources
-- Hackster: https://www.hackster.io/citizenquack/citizenquack-lora-water-sensors-made-relatable-b8ba4e
+- Fab25 version (Hackster page): https://www.hackster.io/citizenquack/citizenquack-lora-water-sensors-made-relatable-b8ba4e
 - CitizenQuack SG post: https://ediblemakerspace.com/citizenquack-sg/
 - Live feed page: https://ediblemakerspace.com/citizenquack
 - PLANETAI (Fab City Foundation): https://planetai.fab.city/
-- 3D files (not downloaded yet):
+- 3D files:
   - Duck body v4 STL: https://ediblemakerspace.com/wp-content/uploads/2026/11/duckbodyv4.stl_.zip
-  - Duck options — head, body, 2 mm hollow (Miriam Choi): https://ediblemakerspace.com/wp-content/uploads/2026/11/27006BC0-DB1C-4D09-A989-8DFCE3DF78B9-DuckOptions.zip
+  - Duck options — head, body, 2 mm hollow (Miriam Choi): https://ediblemakerspace.com/wp-content/uploads/2026/11/27006BC0-DB1C-4D09-A989-8DFCE3DF78B9-DuckOptions.zip → downloaded to `cad/miriam-duck-options/`
 
 ## Open decisions for this project
 - [ ] Water or air (or both)?
 - [ ] Electronics: SenseCAP K1100 / XIAO + Meshtastic / Smart Citizen Kit?
 - [ ] What does the duck *do* with the data (LED colour, posture, sound, textile change)?
 - [ ] Shell materials: soft / textile / biomaterial elements?
-- [x] License: CC BY 4.0 (matches Hackster).
+- [x] License: CC BY 4.0 (matches the Fab25 version).
 - [ ] OSH documentation: BOM, assembly guide.
 
 ## Folder layout
