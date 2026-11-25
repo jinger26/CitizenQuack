@@ -69,7 +69,7 @@ Open decisions:
 - Live feed page: https://ediblemakerspace.com/citizenquack
 - PLANETAI (Fab City Foundation): https://planetai.fab.city/
 - 3D files:
-  - Duck body v4 STL: https://ediblemakerspace.com/wp-content/uploads/2026/11/duckbodyv4.stl_.zip
+  - **Miriam's duck v0 (2026 iteration)** — Duck body v4 STL: https://ediblemakerspace.com/wp-content/uploads/2026/11/duckbodyv4.stl_.zip → in [`cad/miriam-duckv0/`](cad/miriam-duckv0/)
   - Duck options — head, body, 2 mm hollow (Miriam Choi): https://ediblemakerspace.com/wp-content/uploads/2026/11/27006BC0-DB1C-4D09-A989-8DFCE3DF78B9-DuckOptions.zip → downloaded to `cad/miriam-duck-options/`
 
 ## Folder layout
