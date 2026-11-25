@@ -42,12 +42,13 @@ In progress. Open decisions:
 ### Core contributors
 - [YeEun "Miriam" Choi](https://fabacademy.org/2019/labs/seoul/students/miriam-choi/mev2.html) — main designer
 - [Saad Chinoy](https://www.hackster.io/saad-chinoy)
-- [Óscar](https://www.linkedin.com/in/oscgonfer/)
+- [Óscar González](https://www.linkedin.com/in/oscgonfer/)
 - [Adai Suri](https://fablabbcn.org/team/adai-suri)
 - [Claire Chaikin-Bryan](https://www.linkedin.com/in/claire-chaikin-bryan/)
+- [Alberto Blanco](https://class.textile-academy.org/2026/jose-blanco/project/)
 
 ### Lineage
-- Fab25 team: Saad Chinoy, Óscar, Adai, Miriam Choi.
+- Fab25 team: Saad Chinoy, Óscar González, Adai, Miriam Choi.
 - SG page team: Saad Chinoy, YeEun "Miriam" Choi, Alberto Blanco, Jinger Zeng,
   Claire Chaikin-Bryan, Selena Pere, Robert Bogs; support from Violet Su (Seeed Studio).
 - Origin: met at FAB24 Mexico; came together at FAB25 Czechia during Fab Lab Barcelona's
