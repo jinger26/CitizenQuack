@@ -29,7 +29,12 @@ Versions so far:
 - Build listed: SenseCAP K1100, Meshtastic, hot glue gun. Status: work in progress (~8 h).
 
 ### Maker Faire Shenzhen 2026 version
-In progress. Open decisions:
+In progress.
+
+Material tests: TPU, PLA Silk and PETG prints of Miriam's hollow duck on a Prusa MK4S, see
+[fabrication samples](fabrication%20samples/README.md).
+
+Open decisions:
 - [ ] Water or air (or both)?
 - [ ] Electronics: SenseCAP K1100 / XIAO + Meshtastic / Smart Citizen Kit?
 - [ ] What does the duck *do* with the data (LED colour, posture, sound, textile change)?
@@ -75,6 +80,7 @@ CitizenQuack/
   electronics/     wiring, BOM
   firmware/        code
   docs/            process photos, documentation
+  fabrication samples/  material test prints (G-code, photos, results)
 ```
 
 ## License
