@@ -6,6 +6,14 @@ filaments for the duck shell, as input to the open decision on shell materials
 
 Started 2026-11-25. Status: **printing**. Photos and results to follow.
 
+## Progress log
+
+| Date | Material | Update |
+|---|---|---|
+| 2026-11-25 | TPU | Printing the head and body together on the Prusa MK4S. Video: [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4) |
+| | PLA Silk | Not yet printed |
+| | PETG | Not yet printed |
+
 ## What is being printed
 
 Miriam Choi's Duck Options, 2 mm hollow version
@@ -64,7 +72,9 @@ Notes from the slicer settings:
    filament profile, so the results compare materials rather than settings.
 4. Added supports by hand for PLA Silk and PETG; none for TPU.
 5. Exported one `.bgcode` per material and printed them on the MK4S.
-6. _To do:_ photograph each sample and record the results below.
+6. Recorded a video of the TPU print (head + body) on the MK4S, 2026-11-25:
+   [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4).
+7. _To do:_ photograph each finished sample and record the results below.
 
 ## Results
 
@@ -80,7 +90,9 @@ _To be filled in once the prints are finished._
 | Floats? (pond test) | | | |
 | Would we use it for Shenzhen? | | | |
 
-## Photos
+## Photos and video
+
+- Video, TPU printing on the Prusa MK4S (2026-11-25): [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4)
 
 Put photos in [`photos/`](photos/) and add them here, for example:
 
