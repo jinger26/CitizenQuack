@@ -45,8 +45,11 @@ In progress. Open decisions:
 - [Óscar González](https://www.linkedin.com/in/oscgonfer/)
 - [Adai Suri](https://fablabbcn.org/team/adai-suri)
 - [Claire Chaikin-Bryan](https://www.linkedin.com/in/claire-chaikin-bryan/)
+- [Jinger Zeng](https://class.textile-academy.org/2027/jinger-zeng/)
 - [Alberto Blanco](https://class.textile-academy.org/2026/jose-blanco/project/)
 - [Robert Bogs](https://www.linkedin.com/in/robertbogs/)
+- Selena Pere
+- Violet Su
 
 ### Lineage
 - Fab25 team: Saad Chinoy, Óscar González, Adai, Miriam Choi.
