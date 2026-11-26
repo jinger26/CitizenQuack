@@ -4,7 +4,7 @@ Part of the **Maker Faire Shenzhen 2026 version**. The goal is to compare three
 filaments for the duck shell, as input to the open decision on shell materials
 (see the main [README](../README.md#maker-faire-shenzhen-2026-version)).
 
-Started 2026-11-25. Status: **TPU and PLA Silk printed, PETG to do.** Photos below.
+Started 2026-11-25. Status: **TPU and PLA Silk printed; PETG failed on the first layer (cause unknown).** Photos below.
 
 ## Progress log
 
@@ -14,7 +14,7 @@ Started 2026-11-25. Status: **TPU and PLA Silk printed, PETG to do.** Photos bel
 | 2026-11-25 | TPU | **Finished.** Printed in a purple/green colour-shifting TPU; head and body assembled. [Photos](#tpu) |
 | 2026-11-25 | PLA Silk | **Finished.** Two ducks in dual-colour silk PLA: purple/blue and orange/red. [Photos](#pla-silk) |
 | 2026-11-25 | TPU Air | New filament in: Siraya Tech Flex TPU Air (Lilac, 1 kg). Not printed yet. [Photos](#tpu-air-new-filament) |
-| | PETG | Not yet printed |
+| 2026-11-25 | PETG | **Failed.** Every attempt failed on the first layer. Cause unknown; no photos. See [PETG failure](#petg-failure) |
 
 ## What is being printed
 
@@ -77,7 +77,8 @@ Notes from the slicer settings:
 6. Recorded a video of the TPU print (head + body) on the MK4S, 2026-11-25:
    [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4).
 7. Photographed the finished TPU and PLA Silk ducks on the printer and assembled (see Photos).
-8. _To do:_ print PETG; try Siraya Tech Flex TPU Air; fill in the results below.
+8. PETG attempts all failed on the first layer (no photos taken).
+9. _To do:_ find out why PETG failed and reprint; try Siraya Tech Flex TPU Air; fill in the results below.
 
 ## Results
 
@@ -85,13 +86,29 @@ _Partly filled in from the photos; the rest still to be recorded._
 
 | | TPU | PLA Silk | PETG |
 |---|---|---|---|
-| Print succeeded? | Yes | Yes | |
+| Print succeeded? | Yes | Yes | **No**, first layer failed |
 | Surface finish | | | |
 | Overhangs / support marks | | | |
 | Flexibility / feel | | | |
 | Head–body fit | Head sits on body | Head sits on body | |
 | Floats? (pond test) | | | |
 | Would we use it for Shenzhen? | | | |
+
+### PETG failure
+
+All PETG attempts failed on the first layer. The cause is **not known yet**.
+Settings used: Generic PETG @MK4S HF0.4, nozzle 250 °C, bed 85 °C first layer
+(90 °C after), 0.20mm SPEED profile, no brim.
+
+Things to check (ideas, not confirmed):
+- [ ] Which print sheet was on the bed (smooth, satin or textured), and whether it was clean
+- [ ] First-layer Z offset / live adjust for PETG
+- [ ] Whether the filament is dry (PETG picks up moisture)
+- [ ] Whether the filament matches the Generic PETG profile (brand, temperature range)
+- [ ] Bed level / first-layer calibration on the MK4S
+- [ ] Try a slower first layer or adding a brim
+
+Next time, take a photo of the failed first layer, as it helps tell these apart.
 
 ## Photos and video
 
