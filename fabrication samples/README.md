@@ -93,7 +93,7 @@ _Partly filled in from the photos; the rest still to be recorded._
 | Print succeeded? | Yes | Yes | **No**, first layer failed | Yes |
 | Surface finish | | | | Matte, visible layer lines (from photos) |
 | Overhangs / support marks | | | | |
-| Flexibility / feel | | | | Soft and squeezable (see video) |
+| Flexibility / feel | | | | Soft and squeezable ([video](https://youtube.com/shorts/2LdbxRgZwvc)) |
 | Head–body fit | Head sits on body | Head sits on body | | One piece, n/a |
 | Floats? (pond test) | | | | |
 | Would we use it for Shenzhen? | | | | |
@@ -118,6 +118,7 @@ Next time, take a photo of the failed first layer, as it helps tell these apart.
 
 - Video, TPU printing on the Prusa MK4S (2026-11-25): [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4)
 - Video, squeezing the finished TPU duck: [YouTube Short](https://youtube.com/shorts/AZgEm5xpuJc)
+- Video, squeezing the TPU Air duck: [YouTube Short](https://youtube.com/shorts/2LdbxRgZwvc)
 
 Photos are in [`photos/`](photos/), one folder per material.
 
@@ -166,8 +167,7 @@ The G-code for this print is not in the repo yet.
 <img src="photos/TPUair/PXL_20261126_040751192.jpg" width="250" alt="TPU Air duck on a Siraya Tech box"> <img src="photos/TPUair/PXL_20261126_040909971.jpg" width="250" alt="TPU Air duck next to a PLA Silk duck">
 
 - Also: [printer, wide view](photos/TPUair/PXL_20261126_040005963.jpg)
-- Video: squeezing the TPU Air duck (`PXL_20261126_040636458.mp4`, 32 s), not committed
-  yet because it is 81 MB. _Link to follow._
+- Video: [squeezing the TPU Air duck (YouTube Short)](https://youtube.com/shorts/2LdbxRgZwvc)
 
 ### Final line-up
 
