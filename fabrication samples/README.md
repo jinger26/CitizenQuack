@@ -48,6 +48,7 @@ the file name starts with `Mduck_bod`. The parts were printed lying flat, as exp
 | | TPU | PLA Silk | PETG |
 |---|---|---|---|
 | G-code | [`…_FLEX_MK4S_5h3m.bgcode`](Mduck_bod_2mmhollow_0.4n_0.2mm_FLEX_MK4S_5h3m.bgcode) | [`…_PLA_MK4S_2h18m.bgcode`](Mduck_bod_2mmhollow_0.4n_0.2mm_PLA_MK4S_2h18m.bgcode) | [`…_PETG_MK4S_1h35m.bgcode`](Mduck_bod_2mmhollow_0.4n_0.2mm_PETG_MK4S_1h35m.bgcode) |
+| Filament actually loaded | ZIRO Gradient Flexible TPU 1.75 mm, Flex rainbow, 0.8 kg (200–230 °C) | _not recorded_ | _not recorded_ |
 | Filament profile | Prusament TPU 95A @MK4S | Generic PLA Silk @MK4S | Generic PETG @MK4S HF0.4 |
 | Nozzle temp (first layer / rest) | 230 / 230 °C | 230 / 225 °C | 250 / 250 °C |
 | Bed temp (first layer / rest) | 65 / 65 °C | 60 / 60 °C | 85 / 90 °C |
@@ -125,6 +126,11 @@ smaller one-piece duck.
 <img src="photos/PLA%20Silk/PXL_20261126_005646349.jpg" width="600" alt="Line-up of printed ducks">
 
 ### TPU
+
+Filament: ZIRO Gradient Flexible TPU 1.75 mm, "Flex rainbow", 0.8 kg, print temp 200–230 °C
+(the slicer used the Prusament TPU 95A profile at 230 °C, the top of ZIRO's range).
+
+<img src="photos/TPU/PXL_20261125_180437534.MACRO_FOCUS.jpg" width="250" alt="ZIRO Flex rainbow TPU spool label">
 
 <img src="photos/TPU/PXL_20261125_213752742.jpg" width="250" alt="TPU duck printing on the Prusa MK4S at 68%"> <img src="photos/TPU/PXL_20261125_235543157.MP.jpg" width="250" alt="Finished TPU head and body on the print bed"> <img src="photos/TPU/Jinger_TPUrainbow.jpg" width="250" alt="Assembled TPU duck">
 
