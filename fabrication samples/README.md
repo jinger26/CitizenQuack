@@ -10,7 +10,7 @@ Started 2026-11-25. Status: **TPU, PLA Silk and TPU Air printed; PETG failed on 
 
 | Date | Material | Update |
 |---|---|---|
-| 2026-11-25 | TPU | Printing the head and body together on the Prusa MK4S. Video: [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4) |
+| 2026-11-25 | TPU | Printing the head and body together on the Prusa MK4S. Video: [YouTube Short](https://youtube.com/shorts/ZLv_8iuvrJI) |
 | 2026-11-25 | TPU | **Finished.** Printed in a purple/green colour-shifting TPU; head and body assembled. [Photos](#tpu) |
 | 2026-11-25 | PLA Silk | **Finished.** Two ducks in dual-colour silk PLA: purple/blue and orange/red. [Photos](#pla-silk) |
 | 2026-11-25 | TPU Air | New filament in: Siraya Tech Flex TPU Air (Lilac, 1 kg). Not printed yet. [Photos](#tpu-air) |
@@ -77,7 +77,7 @@ Notes from the slicer settings:
 4. Added supports by hand for PLA Silk and PETG; none for TPU.
 5. Exported one `.bgcode` per material and printed them on the MK4S.
 6. Recorded a video of the TPU print (head + body) on the MK4S, 2026-11-25:
-   [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4).
+   [YouTube Short](https://youtube.com/shorts/ZLv_8iuvrJI).
 7. Photographed the finished TPU and PLA Silk ducks on the printer and assembled (see Photos).
 8. PETG attempts all failed on the first layer (no photos taken).
 9. Printed a one-piece duck in Siraya Tech Flex TPU Air on the MK4S (see [TPU Air](#tpu-air)).
@@ -116,7 +116,7 @@ Next time, take a photo of the failed first layer, as it helps tell these apart.
 
 ## Photos and video
 
-- Video, TPU printing on the Prusa MK4S (2026-11-25): [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4)
+- Video, TPU printing on the Prusa MK4S (2026-11-25): [YouTube Short](https://youtube.com/shorts/ZLv_8iuvrJI)
 - Video, squeezing the finished TPU duck: [YouTube Short](https://youtube.com/shorts/AZgEm5xpuJc)
 - Video, squeezing the TPU Air duck: [YouTube Short](https://youtube.com/shorts/2LdbxRgZwvc)
 
