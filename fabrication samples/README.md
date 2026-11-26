@@ -4,14 +4,16 @@ Part of the **Maker Faire Shenzhen 2026 version**. The goal is to compare three
 filaments for the duck shell, as input to the open decision on shell materials
 (see the main [README](../README.md#maker-faire-shenzhen-2026-version)).
 
-Started 2026-11-25. Status: **printing**. Photos and results to follow.
+Started 2026-11-25. Status: **TPU and PLA Silk printed, PETG to do.** Photos below.
 
 ## Progress log
 
 | Date | Material | Update |
 |---|---|---|
 | 2026-11-25 | TPU | Printing the head and body together on the Prusa MK4S. Video: [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4) |
-| | PLA Silk | Not yet printed |
+| 2026-11-25 | TPU | **Finished.** Printed in a purple/green colour-shifting TPU; head and body assembled. [Photos](#tpu) |
+| 2026-11-25 | PLA Silk | **Finished.** Two ducks in dual-colour silk PLA: purple/blue and orange/red. [Photos](#pla-silk) |
+| 2026-11-25 | TPU Air | New filament in: Siraya Tech Flex TPU Air (Lilac, 1 kg). Not printed yet. [Photos](#tpu-air-new-filament) |
 | | PETG | Not yet printed |
 
 ## What is being printed
@@ -74,30 +76,55 @@ Notes from the slicer settings:
 5. Exported one `.bgcode` per material and printed them on the MK4S.
 6. Recorded a video of the TPU print (head + body) on the MK4S, 2026-11-25:
    [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4).
-7. _To do:_ photograph each finished sample and record the results below.
+7. Photographed the finished TPU and PLA Silk ducks on the printer and assembled (see Photos).
+8. _To do:_ print PETG; try Siraya Tech Flex TPU Air; fill in the results below.
 
 ## Results
 
-_To be filled in once the prints are finished._
+_Partly filled in from the photos; the rest still to be recorded._
 
 | | TPU | PLA Silk | PETG |
 |---|---|---|---|
-| Print succeeded? | | | |
+| Print succeeded? | Yes | Yes | |
 | Surface finish | | | |
 | Overhangs / support marks | | | |
 | Flexibility / feel | | | |
-| Head–body fit | | | |
+| Head–body fit | Head sits on body | Head sits on body | |
 | Floats? (pond test) | | | |
 | Would we use it for Shenzhen? | | | |
 
 ## Photos and video
 
 - Video, TPU printing on the Prusa MK4S (2026-11-25): [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4)
+- Video, squeezing the finished TPU duck: [YouTube Short](https://youtube.com/shorts/AZgEm5xpuJc)
 
-Put photos in [`photos/`](photos/) and add them here, for example:
+Photos are in [`photos/`](photos/), one folder per material.
 
-<!--
-![TPU sample](photos/tpu.jpg)
-![PLA Silk sample](photos/pla-silk.jpg)
-![PETG sample](photos/petg.jpg)
--->
+### Line-up
+
+All the ducks so far: TPU (purple/green), PLA Silk (purple/blue and orange/red), and a
+smaller one-piece duck.
+
+<img src="photos/PLA%20Silk/PXL_20261126_005646349.jpg" width="600" alt="Line-up of printed ducks">
+
+### TPU
+
+<img src="photos/TPU/PXL_20261125_213752742.jpg" width="250" alt="TPU duck printing on the Prusa MK4S at 68%"> <img src="photos/TPU/PXL_20261125_235543157.MP.jpg" width="250" alt="Finished TPU head and body on the print bed"> <img src="photos/TPU/Jinger_TPUrainbow.jpg" width="250" alt="Assembled TPU duck">
+
+- Also: [printer view](photos/TPU/PXL_20261125_235541429.jpg),
+  [assembled, second angle](photos/TPU/PXL_20261125_235625645.jpg),
+  [video: squeezing the finished TPU duck (YouTube Short)](https://youtube.com/shorts/AZgEm5xpuJc)
+
+### PLA Silk
+
+<img src="photos/PLA%20Silk/PLASilk.jpg" width="250" alt="Purple/blue PLA Silk head and body on the print bed"> <img src="photos/PLA%20Silk/PXL_20261125_213529713.jpg" width="250" alt="Orange/red PLA Silk head and body on the print bed"> <img src="photos/PLA%20Silk/Jinger_PLAsilk.jpg" width="250" alt="Assembled orange/red PLA Silk duck">
+
+- Also: [orange/red duck, close-up](photos/PLA%20Silk/PXL_20261125_213648133.jpg),
+  [ducks opened up, showing the hollow inside](photos/PLA%20Silk/PXL_20261125_213958183.jpg),
+  [group shot](photos/PLA%20Silk/PXL_20261126_010828470.jpg)
+
+### TPU Air (new filament)
+
+Siraya Tech Flex TPU Air, Lilac, 1 kg, plus boxes of black TPU. Not printed yet.
+
+<img src="photos/TPUair/PXL_20261126_001547293.jpg" width="250" alt="Siraya Tech TPU Air and black TPU boxes"> <img src="photos/TPUair/PXL_20261126_001724994.jpg" width="250" alt="Lilac TPU Air spool">
