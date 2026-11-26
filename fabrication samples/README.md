@@ -4,7 +4,7 @@ Part of the **Maker Faire Shenzhen 2026 version**. The goal is to compare three
 filaments for the duck shell, as input to the open decision on shell materials
 (see the main [README](../README.md#maker-faire-shenzhen-2026-version)).
 
-Started 2026-11-25. Status: **TPU and PLA Silk printed; PETG failed on the first layer (cause unknown).** Photos below.
+Started 2026-11-25. Status: **TPU, PLA Silk and TPU Air printed; PETG failed on the first layer (cause unknown).** Photos below.
 
 ## Progress log
 
@@ -13,7 +13,8 @@ Started 2026-11-25. Status: **TPU and PLA Silk printed; PETG failed on the first
 | 2026-11-25 | TPU | Printing the head and body together on the Prusa MK4S. Video: [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4) |
 | 2026-11-25 | TPU | **Finished.** Printed in a purple/green colour-shifting TPU; head and body assembled. [Photos](#tpu) |
 | 2026-11-25 | PLA Silk | **Finished.** Two ducks in dual-colour silk PLA: purple/blue and orange/red. [Photos](#pla-silk) |
-| 2026-11-25 | TPU Air | New filament in: Siraya Tech Flex TPU Air (Lilac, 1 kg). Not printed yet. [Photos](#tpu-air-new-filament) |
+| 2026-11-25 | TPU Air | New filament in: Siraya Tech Flex TPU Air (Lilac, 1 kg). Not printed yet. [Photos](#tpu-air) |
+| 2026-11-25 | TPU Air | **Finished.** One-piece duck in Siraya Tech Flex TPU Air (Lilac), 8:36–11:29 pm, 2 h 52 min on the printer. [Photos](#tpu-air) |
 | 2026-11-25 | PETG | **Failed.** Every attempt failed on the first layer. Cause unknown; no photos. See [PETG failure](#petg-failure) |
 
 ## What is being printed
@@ -79,21 +80,23 @@ Notes from the slicer settings:
    [`printingonprusa20261125.mp4`](printingonprusa20261125.mp4).
 7. Photographed the finished TPU and PLA Silk ducks on the printer and assembled (see Photos).
 8. PETG attempts all failed on the first layer (no photos taken).
-9. _To do:_ find out why PETG failed and reprint; try Siraya Tech Flex TPU Air; fill in the results below.
+9. Printed a one-piece duck in Siraya Tech Flex TPU Air on the MK4S (see [TPU Air](#tpu-air)).
+10. Photographed all the ducks together (see [Final line-up](#final-line-up)).
+11. _To do:_ find out why PETG failed and reprint; fill in the results below.
 
 ## Results
 
 _Partly filled in from the photos; the rest still to be recorded._
 
-| | TPU | PLA Silk | PETG |
-|---|---|---|---|
-| Print succeeded? | Yes | Yes | **No**, first layer failed |
-| Surface finish | | | |
-| Overhangs / support marks | | | |
-| Flexibility / feel | | | |
-| Head–body fit | Head sits on body | Head sits on body | |
-| Floats? (pond test) | | | |
-| Would we use it for Shenzhen? | | | |
+| | TPU | PLA Silk | PETG | TPU Air |
+|---|---|---|---|---|
+| Print succeeded? | Yes | Yes | **No**, first layer failed | Yes |
+| Surface finish | | | | Matte, visible layer lines (from photos) |
+| Overhangs / support marks | | | | |
+| Flexibility / feel | | | | Soft and squeezable (see video) |
+| Head–body fit | Head sits on body | Head sits on body | | One piece, n/a |
+| Floats? (pond test) | | | | |
+| Would we use it for Shenzhen? | | | | |
 
 ### PETG failure
 
@@ -146,8 +149,31 @@ Filament: ZIRO Gradient Flexible TPU 1.75 mm, "Flex rainbow", 0.8 kg, print temp
   [ducks opened up, showing the hollow inside](photos/PLA%20Silk/PXL_20261125_213958183.jpg),
   [group shot](photos/PLA%20Silk/PXL_20261126_010828470.jpg)
 
-### TPU Air (new filament)
+### TPU Air
 
-Siraya Tech Flex TPU Air, Lilac, 1 kg, plus boxes of black TPU. Not printed yet.
+Filament: Siraya Tech Flex TPU Air, Lilac, 1 kg (a lightweight, foaming TPU), plus boxes of black TPU.
 
 <img src="photos/TPUair/PXL_20261126_001547293.jpg" width="250" alt="Siraya Tech TPU Air and black TPU boxes"> <img src="photos/TPUair/PXL_20261126_001724994.jpg" width="250" alt="Lilac TPU Air spool">
+
+**Print, 2026-11-25:** a one-piece duck on the Prusa MK4S. The printer screen shows the job
+`…v4_0.4n_0.2mm_FLEX_MK4S_2h50m.bgcode`, started 8:36 pm, finished 11:29 pm
+(2 h 52 min, sliced estimate 2 h 50 min). The "v4" in the name suggests it is Miriam's
+[v0 duck](../cad/miriam-duckv0/) (`duckbodyv4.stl`), not the two-part Duck Options.
+The G-code for this print is not in the repo yet.
+
+<img src="photos/TPUair/PXL_20261126_020230173.jpg" width="250" alt="TPU Air duck printing on the Prusa MK4S"> <img src="photos/TPUair/PXL_20261126_035010741.jpg" width="250" alt="Finished TPU Air duck on the print bed, 100%"> <img src="photos/TPUair/PXL_20261126_040257666.jpg" width="250" alt="Underside of the TPU Air duck, next to isopropanol">
+
+<img src="photos/TPUair/PXL_20261126_040751192.jpg" width="250" alt="TPU Air duck on a Siraya Tech box"> <img src="photos/TPUair/PXL_20261126_040909971.jpg" width="250" alt="TPU Air duck next to a PLA Silk duck">
+
+- Also: [printer, wide view](photos/TPUair/PXL_20261126_040005963.jpg)
+- Video: squeezing the TPU Air duck (`PXL_20261126_040636458.mp4`, 32 s), not committed
+  yet because it is 81 MB. _Link to follow._
+
+### Final line-up
+
+All the ducks from these tests: TPU, PLA Silk (purple/blue and orange/red), TPU Air (lilac)
+and a smaller one-piece duck.
+
+<img src="photos/Final%20Line%20Up/PXL_20261126_040359703.jpg" width="600" alt="Final line-up of all printed ducks">
+
+<img src="photos/Final%20Line%20Up/PXL_20261126_040350901.jpg" width="300" alt="Final line-up, second shot"> <img src="photos/Final%20Line%20Up/PXL_20261126_042446921.jpg" width="300" alt="All the ducks packed in a box">
